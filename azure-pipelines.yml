@@ -1,10 +1,4 @@
 # Branches that trigger a build on commit
-trigger:
-- *
-
-# Branches that trigger builds on PR
-pr:
-- *
 
 jobs:
 - job: Do_Some_Stuff
