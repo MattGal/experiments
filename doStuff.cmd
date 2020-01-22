@@ -1,0 +1,1 @@
+msbuild /flp:v=diag /clp:v=diag experimental.proj
