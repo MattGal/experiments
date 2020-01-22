@@ -4,7 +4,7 @@ jobs:
 - job: Do_Some_Stuff
   pool:
     name: NetCorePublic-Pool
-    queue: BuildPool.Windows.10.Amd64.Open
+    queue: buildpool.windows.10.amd64.vs2017.open
 
   timeoutInMinutes: 10
 
